@@ -163,7 +163,25 @@ INSTANCE_TYPES = {
     'd2.xlarge': ['x86_64'],
     'd2.2xlarge': ['x86_64'],
     'd2.4xlarge': ['x86_64'],
-    'd2.8xlarge': ['x86_64']
+    'd2.8xlarge': ['x86_64'],
+    'c5.large': ['x86_64'],
+    'c5.xlarge': ['x86_64'],
+    'c5.2xlarge': ['x86_64'],
+    'c5.4xlarge': ['x86_64'],
+    'c5.9xlarge': ['x86_64'],
+    'c5.18xlarge': ['x86_64'],
+    'c5d.large': ['x86_64'],
+    'c5d.xlarge': ['x86_64'],
+    'c5d.2xlarge': ['x86_64'],
+    'c5d.4xlarge': ['x86_64'],
+    'c5d.9xlarge': ['x86_64'],
+    'c5d.18xlarge': ['x86_64'],
+    'p2.xlarge': ['x86_64'],
+    'p2.8xlarge': ['x86_64'],
+    'p2.16xlarge': ['x86_64'],
+    'p3.2xlarge': ['x86_64'],
+    'p3.8xlarge': ['x86_64'],
+    'p3.16xlarge': ['x86_64']
 }
 
 T1_INSTANCE_TYPES = ['t1.micro']
